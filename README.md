@@ -31,7 +31,7 @@ Users should be able to:
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/my-solution-to-the-order-summary-component-7xJx0WbrTO)
 - Live Site URL: [Vercel](https://ordersummarycomponent-drab.vercel.app/)
-- Github: [Respo](https://github.com/xCyanidex/ordersummarycomponent)
+- Github: [Repo](https://github.com/xCyanidex/ordersummarycomponent)
 
 ## My process
 
